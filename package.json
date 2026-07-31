@@ -1,0 +1,17 @@
+{
+  "name": "basic-http-server",
+  "version": "1.0.0",
+  "description": "A basic HTTP server built using Node.js without Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "server"
+  ],
+  "author": "Sadaf Kareem",
+  "license": "ISC",
+  "type": "commonjs"
+}
