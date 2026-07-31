@@ -225,23 +225,9 @@ The main goal of this project was to build a basic backend server using pure Nod
 
 ---
 
-# 🔮 Future Improvements
-
-Possible improvements:
-
-- Add Express.js version
-- Add REST API endpoints
-- Add database integration
-- Add middleware handling
-- Add frontend interface
-
----
-
 # 👩‍💻 Author
 
 **Sadaf Kareem**
-
-Software Engineering Student
 
 ---
 
