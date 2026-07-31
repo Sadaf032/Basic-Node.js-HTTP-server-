@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
   }
 
   else if (req.url === "/contact") {
-    res.end("<h1>Contact Page</h1><p>Email: example@email.com</p>");
+    res.end("<h1>Contact Page</h1><p>Email: Sadaf123@gmail.com</p>");
   }
 
   else if (req.url === "/time") {
